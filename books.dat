@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "Deep learning",
+        "description": "Artificial intelligence",
+        "isbn": "24-342-654",
+        "page_count": "621",
+        "issued": false,
+        "author": "Ian Goodfellow",
+        "year": 2016
+    }
+]
